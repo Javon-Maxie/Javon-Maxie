@@ -1,4 +1,5 @@
-## Hi, I'm Javon
+## Hi, I'm Javon!
+## Aspiring IT Professional,CompTIA Certified, UCSD Alumni
 
 <!--
 **Javon-Maxie/Javon-Maxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
